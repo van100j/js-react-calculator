@@ -6,7 +6,7 @@ Solution to the [FCC's Build A JS calculator challenge](https://www.freecodecamp
 ### Usage
 
 ```
-https://github.com/van100j/js-react-calculator.git
+git clone https://github.com/van100j/js-react-calculator.git
 cd js-react-calculator/
 npm install
 npm start
